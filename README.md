@@ -1,5 +1,5 @@
-# Sang-Tao-Tre-2020
-SÁNG TẠO TRẺ BÁCH KHOA 2020
+# Sang Tao Tre 2020
+## SÁNG TẠO TRẺ BÁCH KHOA 2020
 
 Smartup for Life
 
